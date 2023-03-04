@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include migoo_dashboard *.css
+recursive-include migoo_dashboard *.csv
+recursive-include migoo_dashboard *.html
+recursive-include migoo_dashboard *.ico
+recursive-include migoo_dashboard *.js
+recursive-include migoo_dashboard *.json
+recursive-include migoo_dashboard *.md
+recursive-include migoo_dashboard *.png
+recursive-include migoo_dashboard *.py
+recursive-include migoo_dashboard *.svg
+recursive-include migoo_dashboard *.txt
+recursive-exclude migoo_dashboard *.pyc
