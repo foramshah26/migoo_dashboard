@@ -11,8 +11,8 @@ app_license = "MIT"
 # ------------------
 
 # include js, css files in header of desk.html
-# app_include_css = "/assets/migoo_dashboard/css/migoo_dashboard.css"
-# app_include_js = "/assets/migoo_dashboard/js/migoo_dashboard.js"
+app_include_css = "/assets/migoo_dashboard/css/custom.css"
+app_include_js = "/assets/migoo_dashboard/js/custom_number_card_widget.js"
 
 # include js, css files in header of web template
 # web_include_css = "/assets/migoo_dashboard/css/migoo_dashboard.css"
